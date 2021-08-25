@@ -1,2 +1,2 @@
-# goit-markup-hw-01
-# will be to 11:59 AM
+# goit-markup-hw-03
+# still work on styles comprehensively
