@@ -1,2 +1,2 @@
-# goit-markup-hw-03
-# still work on styles comprehensively
+# goit-markup-hw-02
+# in progress
